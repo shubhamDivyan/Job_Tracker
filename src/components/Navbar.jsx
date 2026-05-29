@@ -15,7 +15,7 @@ const Navbar = ({ savedCount, totalJobs }) => {
             to="/"
             className="text-lg font-black tracking-tight text-slate-800 dark:text-white hover:opacity-90 transition-opacity flex items-center gap-1.5"
           >
-            <span>Briefcase.ai</span>
+            <span>Briefcase</span>
             <span className="text-base">💼</span>
           </Link>
         </div>

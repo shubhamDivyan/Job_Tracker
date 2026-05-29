@@ -64,7 +64,7 @@ export default function About() {
             Empowering the Next Generation of Technical Talents.
           </h3>
           <p className="text-xs md:text-sm font-medium text-slate-500 dark:text-slate-400 leading-relaxed">
-            Briefcase.ai operates on a fundamental baseline ideology:
+            Briefcase operates on a fundamental baseline ideology:
             recruitment tools should be fast, highly scannable, and
             state-driven. We provide engineers with a robust command panel
             center to isolate open vacancies, monitor financial metrics scales,
