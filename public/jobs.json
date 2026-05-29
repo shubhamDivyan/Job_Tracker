@@ -1,0 +1,502 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Engineer (React)",
+    "company": "TechNova Solutions",
+    "location": "Remote, India",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "salary": "1200000",
+    "description": "Looking for a React developer with 2+ years of experience in state management and hook optimizations."
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer (Node.js)",
+    "company": "CloudScale Systems",
+    "location": "Bangalore",
+    "category": "Backend",
+    "level": "Advanced",
+    "salary": "1800000",
+    "description": "Build robust REST APIs and manage MongoDB/PostgreSQL databases with high availability."
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Engineer (MERN)",
+    "company": "PixelCraft Studios",
+    "location": "Delhi NCR",
+    "category": "FullStack",
+    "level": "Intermediate",
+    "salary": "1500000",
+    "description": "End-to-end web app development using MongoDB, Express, React, and Node.js."
+  },
+  {
+    "id": "4",
+    "title": "AI Prompt Engineer",
+    "company": "Cortex AI",
+    "location": "Remote, US",
+    "category": "AI",
+    "level": "Beginner",
+    "salary": "2400000",
+    "description": "Optimize Large Language Models outputs, creating standard prompt libraries for production workflows."
+  },
+  {
+    "id": "5",
+    "title": "Data Analyst",
+    "company": "Insight Metrics",
+    "location": "Mumbai",
+    "category": "Data",
+    "level": "Beginner",
+    "salary": "700000",
+    "description": "Analyze user behaviors and generate automated BI reports using Python and Tableau."
+  },
+  {
+    "id": "6",
+    "title": "Senior React Native Developer",
+    "company": "AppSphere Corp",
+    "location": "Hyderabad",
+    "category": "Frontend",
+    "level": "Advanced",
+    "salary": "2200000",
+    "description": "Build high-performance Android and iOS apps using JavaScript/TypeScript and React Native."
+  },
+  {
+    "id": "7",
+    "title": "DevOps Engineer",
+    "company": "SysOps Global",
+    "location": "Pune",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "1400000",
+    "description": "Manage AWS cloud infrastructure, CI/CD pipelines using GitHub Actions, and Docker containers."
+  },
+  {
+    "id": "8",
+    "title": "Junior Java Developer",
+    "company": "FinTech Core",
+    "location": "Chennai",
+    "category": "Backend",
+    "level": "Beginner",
+    "salary": "600000",
+    "description": "Maintain core banking microservices built on Java Spring Boot and Hibernate frameworks."
+  },
+  {
+    "id": "9",
+    "title": "Machine Learning Engineer",
+    "company": "DeepMinders",
+    "location": "Remote",
+    "category": "AI",
+    "level": "Advanced",
+    "salary": "3000000",
+    "description": "Train and fine-tune deep learning models for computer vision and computer-generated imagery systems."
+  },
+  {
+    "id": "10",
+    "title": "Database Administrator",
+    "company": "DataSecure Ltd",
+    "location": "Kolkata",
+    "category": "Data",
+    "level": "Intermediate",
+    "salary": "1000000",
+    "description": "Monitor and tune complex database servers, ensuring replication, scaling, and backups are flawless."
+  },
+  {
+    "id": "11",
+    "title": "Next.js Core Developer",
+    "company": "Veloce Web",
+    "location": "Remote",
+    "category": "Frontend",
+    "level": "Advanced",
+    "salary": "2000000",
+    "description": "Expertise in Server Components, SSR, ISR, and optimizing web vitals for heavy traffic applications."
+  },
+  {
+    "id": "12",
+    "title": "Python Django Specialist",
+    "company": "Pyramid Labs",
+    "location": "Gurugram",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "1100000",
+    "description": "Develop dynamic backends with robust Object-Relational Mapping (ORM) and asynchronous task queues."
+  },
+  {
+    "id": "13",
+    "title": "UI Engineer (Tailwind CSS)",
+    "company": "DesignSync",
+    "location": "Remote",
+    "category": "Frontend",
+    "level": "Beginner",
+    "salary": "550000",
+    "description": "Translate complex Figma design files into highly responsive, pixel-perfect Tailwind layouts."
+  },
+  {
+    "id": "14",
+    "title": "NLP Data Scientist",
+    "company": "LingoAI",
+    "location": "Bangalore",
+    "category": "AI",
+    "level": "Advanced",
+    "salary": "2600000",
+    "description": "Build custom Transformers, fine-tune BERT models, and implement efficient text tokenizers."
+  },
+  {
+    "id": "15",
+    "title": "Data Engineer (Big Data)",
+    "company": "StreamPipelines",
+    "location": "Hyderabad",
+    "category": "Data",
+    "level": "Advanced",
+    "salary": "2400000",
+    "description": "Architect real-time streaming architectures using Apache Kafka, Spark, and Hadoop clusters."
+  },
+  {
+    "id": "16",
+    "title": "Vue.js Frontend Architect",
+    "company": "NuxtSolutions",
+    "location": "Remote, India",
+    "category": "Frontend",
+    "level": "Advanced",
+    "salary": "1900000",
+    "description": "Design modular component trees, custom state composition plugins, and state micro-frontends."
+  },
+  {
+    "id": "17",
+    "title": "GoLang Systems Engineer",
+    "company": "FastScale Technologies",
+    "location": "Noida",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "1600000",
+    "description": "Write super-fast, low-latency microservices with high concurrent routine pipelines."
+  },
+  {
+    "id": "18",
+    "title": "SRE (Site Reliability)",
+    "company": "InfraGuard",
+    "location": "Bangalore",
+    "category": "Backend",
+    "level": "Advanced",
+    "salary": "2500000",
+    "description": "Automate infrastructure deployment, perform stress loads, and manage Kubernetes orchestration clusters."
+  },
+  {
+    "id": "19",
+    "title": "Computer Vision Intern",
+    "company": "RoboSight",
+    "location": "Kochi",
+    "category": "AI",
+    "level": "Beginner",
+    "salary": "400000",
+    "description": "Implement OpenCV image manipulation algorithms and manage training image sets for YOLO models."
+  },
+  {
+    "id": "20",
+    "title": "BI Dashboard Specialist",
+    "company": "DataVibe Analytics",
+    "location": "Pune",
+    "category": "Data",
+    "level": "Intermediate",
+    "salary": "950000",
+    "description": "Create high-level intuitive executive dashboards using PowerBI, SQL, and complex DAX formulas."
+  },
+  {
+    "id": "21",
+    "title": "Angular Enterprise Developer",
+    "company": "BlueChip Systems",
+    "location": "Chennai",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "salary": "1300000",
+    "description": "Manage heavily structured enterprise single page apps using TypeScript and RxJS observables architecture."
+  },
+  {
+    "id": "22",
+    "title": "GraphQL Backend Engineer",
+    "company": "GraphNode",
+    "location": "Remote",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "1450000",
+    "description": "Build high performance Apollo Server data aggregators over existing distributed microservice endpoints."
+  },
+  {
+    "id": "23",
+    "title": "Rust Core Systems Engineer",
+    "company": "OxideLabs",
+    "location": "Remote",
+    "category": "Backend",
+    "level": "Advanced",
+    "salary": "3500000",
+    "description": "Write memory-safe, ultra-low latency WebAssembly modules and next-generation dev tooling."
+  },
+  {
+    "id": "24",
+    "title": "AI Product Engineer",
+    "company": "Synthetix Corp",
+    "location": "Delhi NCR",
+    "category": "AI",
+    "level": "Intermediate",
+    "salary": "1700000",
+    "description": "Integrate LLM API gateways with operational vector databases like Pinecone and ChromaDB seamlessly."
+  },
+  {
+    "id": "25",
+    "title": "Data Warehouse Architect",
+    "company": "CloudVault Data",
+    "location": "Mumbai",
+    "category": "Data",
+    "level": "Advanced",
+    "salary": "2800000",
+    "description": "Optimize snowflake data warehouse modeling configurations and petabyte-scale data schemas."
+  },
+  {
+    "id": "26",
+    "title": "Junior Frontend Developer (HTML/CSS)",
+    "company": "WebStarter",
+    "location": "Kolkata",
+    "category": "Frontend",
+    "level": "Beginner",
+    "salary": "350000",
+    "description": "Develop interactive responsive static layouts and maintain existing marketing landing pages."
+  },
+  {
+    "id": "27",
+    "title": "Ruby on Rails Developer",
+    "company": "LegacyApp Upgrade",
+    "location": "Remote",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "1250000",
+    "description": "Maintain, patch, and transition legacy Rails backends into atomic distributed service architectures."
+  },
+  {
+    "id": "28",
+    "title": "Deep Learning Researcher",
+    "company": "NeuralFrontiers",
+    "location": "Bangalore",
+    "category": "AI",
+    "level": "Advanced",
+    "salary": "3200000",
+    "description": "Publish and prototype bleeding-edge architecture papers regarding generative reinforcement model algorithms."
+  },
+  {
+    "id": "29",
+    "title": "Junior Data Engineer",
+    "company": "FetchPipelines",
+    "location": "Ahmedabad",
+    "category": "Data",
+    "level": "Beginner",
+    "salary": "600000",
+    "description": "Maintain standard ETL tasks and configure recurring automated CRON scripts fetching external API logs."
+  },
+  {
+    "id": "30",
+    "title": "MERN Stack Specialist",
+    "company": "DevSquad",
+    "location": "Jaipur",
+    "category": "FullStack",
+    "level": "Intermediate",
+    "salary": "1050000",
+    "description": "Manage database persistence states using Mongoose models and handle UI routing schemas inside React."
+  },
+  {
+    "id": "31",
+    "title": "Web3 Frontend Engineer",
+    "company": "CryptoFlow",
+    "location": "Remote",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "salary": "1800000",
+    "description": "Connect UI modules with Web3 providers, utilizing Ethers.js to sign transaction payloads on chains."
+  },
+  {
+    "id": "32",
+    "title": "PHP Laravel Developer",
+    "company": "SaaSFactory",
+    "location": "Indore",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "850000",
+    "description": "Develop multi-tenant SaaS backend management architectures using Laravel Eloquent and queues."
+  },
+  {
+    "id": "33",
+    "title": "Reinforcement Learning Dev",
+    "company": "Agentic Labs",
+    "location": "Remote",
+    "category": "AI",
+    "level": "Advanced",
+    "salary": "2900000",
+    "description": "Train custom simulation autonomous agents utilizing reward function configurations across game engines."
+  },
+  {
+    "id": "34",
+    "title": "SQL Database Optimizer",
+    "company": "QueryFixers",
+    "location": "Chandigarh",
+    "category": "Data",
+    "level": "Intermediate",
+    "salary": "1150000",
+    "description": "Profile complex procedural block queries, restructure indexes, and remove resource-heavy query deadlocks."
+  },
+  {
+    "id": "35",
+    "title": "FullStack Jamstack Developer",
+    "company": "StaticPulse",
+    "location": "Remote",
+    "category": "FullStack",
+    "level": "Intermediate",
+    "salary": "1350000",
+    "description": "Deploy atomic headlessly managed static commerce layers using Next.js, Sanity CMS, and Stripe integration."
+  },
+  {
+    "id": "36",
+    "title": "TypeScript Core Developer",
+    "company": "StrictType Corp",
+    "location": "Bangalore",
+    "category": "Frontend",
+    "level": "Advanced",
+    "salary": "2100000",
+    "description": "Architect ultra-strict centralized types architectures, mapped type decorators, and monorepo configurations."
+  },
+  {
+    "id": "37",
+    "title": "Spring Boot Cloud Architect",
+    "company": "EnterpriseScale",
+    "location": "Hyderabad",
+    "category": "Backend",
+    "level": "Advanced",
+    "salary": "2600000",
+    "description": "Implement fault-tolerant Netflix OSS discovery layers, circuit breakers, and load balancers."
+  },
+  {
+    "id": "38",
+    "title": "AI Video Generation Specialist",
+    "company": "MotionGen AI",
+    "location": "Remote",
+    "category": "AI",
+    "level": "Intermediate",
+    "salary": "2000000",
+    "description": "Configure diffusion spatial video pipelines and manage training assets for temporal rendering models."
+  },
+  {
+    "id": "39",
+    "title": "Pandas/NumPy Engineer",
+    "company": "MatrixStats",
+    "location": "Lucknow",
+    "category": "Data",
+    "level": "Beginner",
+    "salary": "650000",
+    "description": "Clean heavily corrupted data sets, format date frames, and eliminate duplicate relational rows."
+  },
+  {
+    "id": "40",
+    "title": "LAMP Stack Webmaster",
+    "company": "HostingGroup",
+    "location": "Surat",
+    "category": "FullStack",
+    "level": "Beginner",
+    "salary": "500000",
+    "description": "Deploy and maintain legacy cPanel operations, running standard relational MySQL server tables."
+  },
+  {
+    "id": "41",
+    "title": "Svelte Frontend Enthusiast",
+    "company": "LeanWeb Inc",
+    "location": "Remote",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "salary": "1400000",
+    "description": "Write fast-compiling, virtual-DOM-free UI applications utilizing highly optimized native reactive states."
+  },
+  {
+    "id": "42",
+    "title": "FastAPI Endpoint Specialist",
+    "company": "SpeedyAPIs",
+    "location": "Bhubaneswar",
+    "category": "Backend",
+    "level": "Intermediate",
+    "salary": "950000",
+    "description": "Develop self-documenting Pydantic layer asynchronous validation routes processing real-time system logs."
+  },
+  {
+    "id": "43",
+    "title": "LLM Fine-Tuning Engineer",
+    "company": "WeightTuners",
+    "location": "Remote",
+    "category": "AI",
+    "level": "Advanced",
+    "salary": "3100000",
+    "description": "Perform low-rank adaptation adjustments (LoRA) over quantization weights parameters on decentralized systems."
+  },
+  {
+    "id": "44",
+    "title": "Tableau Reporting Engineer",
+    "company": "ChartMasters",
+    "location": "Nagpur",
+    "category": "Data",
+    "level": "Intermediate",
+    "salary": "800000",
+    "description": "Synthesize fragmented data tables to construct multi-tiered operational business analytics dashboards."
+  },
+  {
+    "id": "45",
+    "title": "Senior MEAN Stack Engineer",
+    "company": "EnterpriseAngular",
+    "location": "Bangalore",
+    "category": "FullStack",
+    "level": "Advanced",
+    "salary": "2300000",
+    "description": "Manage heavy streaming payloads across Express node structures backed securely inside document models."
+  },
+  {
+    "id": "46",
+    "title": "CSS Framework Expert",
+    "company": "StyleSheets Ltd",
+    "location": "Remote",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "salary": "1100000",
+    "description": "Build atomic modular design UI kits across token-based setups integrating with configuration variants."
+  },
+  {
+    "id": "47",
+    "title": "C# .NET Backend Specialist",
+    "company": "EnterpriseWindows",
+    "location": "Coimbatore",
+    "category": "Backend",
+    "level": "Advanced",
+    "salary": "2150000",
+    "description": "Architect relational Entity Framework enterprise transaction backends running multi-threaded task tasks."
+  },
+  {
+    "id": "48",
+    "title": "AI Agent Developer",
+    "company": "AutonomySystems",
+    "location": "Remote",
+    "category": "AI",
+    "level": "Intermediate",
+    "salary": "1950000",
+    "description": "Develop multi-agent loop memory pools running localized task graphs processing complex user intents."
+  },
+  {
+    "id": "49",
+    "title": "Hadoop Analytics Administrator",
+    "company": "ClusterTech Solutions",
+    "location": "Patna",
+    "category": "Data",
+    "level": "Intermediate",
+    "salary": "1300000",
+    "description": "Manage highly distributed map-reduce job profiles running concurrently across on-premise blade servers."
+  },
+  {
+    "id": "50",
+    "title": "Serverless Framework Architect",
+    "company": "NoServer Ltd",
+    "location": "Remote",
+    "category": "FullStack",
+    "level": "Advanced",
+    "salary": "2700000",
+    "description": "Design decoupled serverless microservices using AWS Lambda, DynamoDB, and API Gateway."
+  }
+]
